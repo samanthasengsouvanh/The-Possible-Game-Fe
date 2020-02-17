@@ -1,0 +1,13 @@
+.container {
+  width: 600px;
+  height: 300px;
+  border: 2px solid aqua;
+  border-radius: 4px;
+  margin: 20px auto;
+  overflow: hidden;
+  background-image: url("https://cameronscookware.com/wp-content/uploads/2019/12/vaporwave-background-1920x1080-beautiful-vaporwave-wallpapers-79-images-combination-of-vaporwave-background-1920x1080-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: relative;
+}

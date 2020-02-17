@@ -1,0 +1,13 @@
+.enter {
+  position: relative;
+  left: 40%;
+  color: white;
+}
+.highscores {
+  position: relative;
+  left: 40%;
+  color: white;
+}
+.scores {
+  font-size: 15px;
+}

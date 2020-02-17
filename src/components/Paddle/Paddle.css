@@ -1,0 +1,36 @@
+.paddle {
+  display: flex;
+  flex-wrap: wrap;
+  height: 30px;
+  width: 30px;
+  border-radius: 3px;
+  position: absolute;
+  left: 60px;
+  top: 50%;
+}
+.top-right {
+  background-color: aqua;
+  height: 15px;
+  width: 15px;
+}
+.top-left {
+  background-color: #fdd909;
+  height: 15px;
+  width: 15px;
+}
+
+.bottom-right {
+  height: 15px;
+  width: 15px;
+  background-color: #ee18bd;
+}
+
+.bottom-left {
+  height: 15px;
+  width: 15px;
+  background-color: #f71818;
+}
+
+.pic {
+  transition: transform 700ms ease-in;
+}
