@@ -25,7 +25,7 @@ This game is based off of the impossible game. The impossible game is already po
 
 ## Technology
 
-MERN template from bcbrian - authentication and database structures
+MERN template from <a href="https://github.com/bcbrian">Brian Bartholomew</a> - authentication and database structures
 
 Grommet - buttons, boxes, and inputs
 
