@@ -27,9 +27,19 @@ This game is based off of the impossible game. The impossible game is already po
 
 MERN template from <a href="https://github.com/bcbrian">Brian Bartholomew</a> - authentication and database structures
 
+Passport - user registration and authentication
+
 Grommet - buttons, boxes, and inputs
 
 React CSS Transition - animation
+
+## Challenges
+
+Building game logic, physics, and collision from scratch in react environment.
+
+## Future Development
+
+Performance optimization, adding more games to the website, adding more levels using tile mapping.
 
 ## Collaborators
 
