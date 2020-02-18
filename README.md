@@ -16,7 +16,7 @@ Gameplay is really simple and straightforward it just consists of an automatical
 
 ## Deployed Link 
 
-https://aestheticgames-lively-wood.netlify.com/
+https://sleepy-ardinghelli-9304a0.netlify.com/
 
 The backend is deployed on heroku for the user authentication and highscores data.
 
