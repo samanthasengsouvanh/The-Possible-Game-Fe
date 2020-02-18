@@ -1,7 +1,5 @@
 # The Possible Game - Final Project
 
-## the backend is deployed on heroku for the user authentication and highscores data.
-
 ## User Story
 
 Have you ever found yourself bored out of your mind? Have some time to kill? Want to play a game that already exists only built in a native JavaScript environment using react? 
@@ -19,6 +17,8 @@ Gameplay is really simple and straightforward it just consists of an automatical
 ## Deployed Link 
 
 https://aestheticgames-lively-wood.netlify.com/
+
+The backend is deployed on heroku for the user authentication and highscores data.
 
 ## Research
 This game is based off of the impossible game. The impossible game is already popular with over 500k downloads and an average review score of 3.9/5 stars on the Google play store and is available on mobile, console, and pc. The impossible Game is currently number 5 in the ios store music app charts, number 2 featured app in the USA and Canada, and over 42k fans on Facebook. In conclusion The Impossible Game sells for $.99 on multiple platforms, with a solid fan base that proves there is demand and a viable business for The Possible Game.
