@@ -16,7 +16,7 @@ Gameplay is really simple and straightforward, it just consists of an automatica
 
 ## Deployed Link 
 
-https://sleepy-ardinghelli-9304a0.netlify.com/
+https://the-possible-game.netlify.com/
 
 The backend is deployed on heroku for the user authentication and highscores data.
 
